@@ -1,0 +1,19 @@
+Employee Details Report
+
+Author: Rahul Sharma
+Department: Artificial Intelligence
+
+Rahul Sharma worked on a License Plate Detection System using Deep Learning.
+The total project budget was 50000 INR.
+An additional testing budget of 25000 INR was approved later.
+
+Project Duration: 6 months
+Technology Stack: Python, OpenCV, TensorFlow
+
+Project Budget Details:
+- Development Budget: 50000 INR
+- Testing Budget: 25000 INR
+
+Total Budget: 75000 INR
+
+The project achieved good detection accuracy during internal testing.
